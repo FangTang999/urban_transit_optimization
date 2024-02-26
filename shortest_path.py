@@ -1,7 +1,7 @@
 # Date: Feb 25, 2024
 # Fang Tang, tangfangseu@gmail.com
 
-# This code is to find the shortest path for o_zone_id and d_zone_id
+# This code is to find the shortest path for OD pairs
 
 import path4gmns as pg
 import pandas as pd
